@@ -26,7 +26,7 @@ const Powaha = () => {
 						<TiArrowRight />
 					</span>
 					Work with variety of different languages, platforms, frameworks and
-					database management systems such as JavaSript, React, ReactNative,
+					database management systems such as JavaScript, React, ReactNative,
 					MySQL and OVI Panel.
 				</li>
 				<li className='text-text-base flex gap-2 text-textDark'>
