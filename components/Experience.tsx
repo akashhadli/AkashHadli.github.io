@@ -1,6 +1,7 @@
 import React from 'react';
 import SectionTitle from './SectionTitle';
 import Powaha from './works/Powaha';
+import AJES from './works/AJES';
 
 const Experience = () => {
 	return (
@@ -16,6 +17,14 @@ const Experience = () => {
 					</li>
 				</ul>
 				<Powaha />
+			</div>
+			<div className='w-full mt-10 flex flex-col md:flex-row gap-16'>
+				<ul className='md:w-32 flex flex-col'>
+					<li className='border-l-2 border-l-textGreen text-textDark bg-transparent hover:bg-[#112240] py-3 text-sm corsor-pointer duartion-300 px-8 font-medium'>
+						AJ Enterprise Solutions
+					</li>
+				</ul>
+				<AJES />
 			</div>
 		</section>
 	);
