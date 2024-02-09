@@ -113,7 +113,7 @@ const Navbar = () => {
 							</motion.li>
 						</Link>
 					</ul>
-					<a href='/assets/Aakash_hadli.pdf' target='_blank'>
+					<a href='/assets/Akash Hadli_CV.pdf' target='_blank'>
 						<motion.button
 							initial={{ opacity: 0 }}
 							animate={{ opacity: 1 }}
