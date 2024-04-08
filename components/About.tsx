@@ -38,7 +38,7 @@ const About = () => {
 						Fast-Forward to today, and I had the oportunity to work as an intern
 						at an small{' '}
 						<span className='text-textGreen'>MERN Stack Start-Up</span> where I
-						worked on an amazing project during my final year of my Graduation.
+						worked on an amazing project during my final year of Graduation.
 					</p>
 					<p>
 						Here are a few Technologies that I have been working with recently:
